@@ -1,0 +1,50 @@
+table,td{
+    border: black solid 2px;
+    height: 50px;
+    width: 300px;
+    border-spacing: 10px;
+    background-color: rgb(12, 9, 2);
+    /* margin-top: 100px; */
+    padding: 10px;
+    table-layout: fixed;
+    
+}
+td{
+    border-radius: 15px;
+    background-color: rgb(233, 230, 227);
+    text-align: center;
+    font-size: 20px;
+    cursor:pointer;
+    background-color: rgb(235, 206, 134);
+    height: 50px;
+    width: 5px;
+    
+}
+
+.container{
+    margin-top: 8%;
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    height: 50px;
+    width: 150px;
+    border: black 3px solid;
+}
+#disp{
+    text-align:right;
+    height: 100px;
+    font-size: 20px;
+    color: rgb(127, 192, 61);
+    background-color: rgb(212, 223, 226);
+}
+
+/* marquee{
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+} */
